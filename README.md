@@ -6,6 +6,7 @@ Windows 64-bit File Mirror
 * Sublime Text 3
 * Notepad++
 * Total Commander
+* Midnight Commander
 * JARs (IntelliJ Plugins)
 
 ## License

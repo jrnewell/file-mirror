@@ -7,6 +7,7 @@ Windows 64-bit File Mirror
 * Notepad++
 * Total Commander
 * Midnight Commander
+* KDiff3
 * JARs (IntelliJ Plugins)
 
 ## License

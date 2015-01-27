@@ -9,6 +9,7 @@ Windows 64-bit File Mirror
 * Midnight Commander
 * KDiff3
 * JARs (IntelliJ Plugins)
+* Squirrel SQL
 
 ## License
 

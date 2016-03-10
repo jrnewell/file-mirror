@@ -10,6 +10,7 @@ Windows 64-bit File Mirror
 * KDiff3
 * JARs (IntelliJ Plugins)
 * Squirrel SQL
+* 7-Zip
 
 ## License
 
